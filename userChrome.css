@@ -409,13 +409,6 @@
 }
 
 /*  Urlbar popup thing  */
-.urlbarView-row {
-    display: none !important;
-}
-.urlbarView-row:nth-child(1),
-.urlbarView-row:nth-child(2) {
-    display: flex !important;
-}
 .search-panel-one-offs-header.search-panel-header {
     display: none !important;
 }
