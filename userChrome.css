@@ -25,7 +25,7 @@
 
 :root {
     --tab-border-radius: 6px !important; /*  Tab border radius -- Changes the tabs rounding  */ /*  Default: 3px  */
-    --NavbarWidth: 43; /*  Default values: 36 - 43  */
+    --NavbarWidth: 60; /*  Default values: 36 - 43  */
     --TabsHeight: 36; /*  Minimum: 30  */ /*  Default: 36  */
     --TabsBorder: 8; /*  Doesnt do anything on small layout  */ /*  Default: 8  */
     --NavbarHeightSmall: calc(
@@ -603,7 +603,7 @@ findbar {
 #reader-mode-button,
 #tracking-protection-icon-container,
 #star-button-box,
-#unified-extensions-button, /* Addons -> Comment, pin addons, uncomment */
+/* #unified-extensions-button, Addons -> Comment, pin addons, uncomment */
 #identity-icon-box {
     display: none !important;
 }
