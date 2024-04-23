@@ -679,3 +679,8 @@ findbar {
 #tabs-newtab-button > .toolbarbutton-icon {
     list-style-image: url(window/add.svg) !important;    
 }
+
+/*** Hide "More Tools" Menu Item from the main menu ***/
+#nav-bar-overflow-button {
+    display: none !important; 
+}
