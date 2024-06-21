@@ -1,6 +1,14 @@
 # Essence
 
-![GitHub](https://img.shields.io/github/license/JarnotMaciej/FirefoxCSS?style=flat-square) ![GitHub](https://img.shields.io/github/languages/top/JarnotMaciej/FirefoxCSS?style=flat-square) ![GitHub](https://img.shields.io/github/languages/code-size/JarnotMaciej/FirefoxCSS?style=flat-square) 
+![GitHub](https://img.shields.io/github/license/JarnotMaciej/FirefoxCSS?style=flat-square) ![GitHub](https://img.shields.io/github/languages/top/JarnotMaciej/FirefoxCSS?style=flat-square) ![GitHub](https://img.shields.io/github/languages/code-size/JarnotMaciej/FirefoxCSS?style=flat-square)
+
+自用Firefox自定义样式。基于Essence的基础上进行修改；当前效果如图。
+
+![screenshot1](https://raw.githubusercontent.com/ciaranchen/Essence/main/assets/screenshot1.png)
+
+![screenshot2](https://raw.githubusercontent.com/ciaranchen/Essence/main/assets/screenshot2.png)
+
+参见[Firefox 关于 Browser Toolbox 的文档](https://firefox-source-docs.mozilla.org/devtools-user/browser_toolbox/index.html)可以更清晰地对userChrome.css进行修改。
 
 ## Short description
 
